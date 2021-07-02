@@ -1,0 +1,2 @@
+# doko
+wp theme
