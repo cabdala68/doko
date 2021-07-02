@@ -1,0 +1,25 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_doko">
+    <key name="doko_phone" />
+    <key name="doko_email" />
+    <key name="home_page_slider_1_button_text" />
+    <key name="home_page_slider_2_button_text" />
+    <key name="home_page_slider_3_button_text" />
+    <key name="doko_counter_one_text" />
+    <key name="doko_counter_two_text" />
+    <key name="doko_counter_three_text" />
+    <key name="doko_counter_four_text" />
+    <key name="doko_homepage_services_below_text_section" />
+    <key name="doko_homepage_services_below_button_text_settings" />
+    <key name="doko_homepage_features_button_text_settings" />
+    <key name="doko_homepage_works_heading_setting" />
+    <key name="doko_homepage_works_text_setting" />
+    <key name="doko_homepage_our_team_text_title_setting" />
+    <key name="doko_homepage_our_team_text_setting" />
+    <key name="doko_homepage_blog_text_title_setting" />
+    <key name="doko_homepage_blog_text_setting" />
+    <key name="doko_footer_copyright" />   
+</key>
+</admin-texts>
+</wpml-config>

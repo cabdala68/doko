@@ -1,0 +1,863 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-02-19 06:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: archive.php:73 archive.php:119 index.php:95 index.php:143 
+#: inc/functions.php:1064
+msgid "Read More"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:63
+msgid "Primary"
+msgstr ""
+
+#: functions.php:64
+msgid "Bottom"
+msgstr ""
+
+#: functions.php:138
+msgid "Doko Sidebar  Widget Area"
+msgstr ""
+
+#: functions.php:140 functions.php:150 functions.php:160 functions.php:170
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:148
+msgid "Footer Left  Widget Area"
+msgstr ""
+
+#: functions.php:158
+msgid "Footer Middle Widget Area"
+msgstr ""
+
+#: functions.php:168
+msgid "Footer right Widget Area"
+msgstr ""
+
+#: functions.php:190
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:194
+msgctxt "Rubik: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:198
+msgctxt "Roboto+Condensed: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:283
+msgid "Home"
+msgstr ""
+
+#: functions.php:291
+msgid "Search results - "
+msgstr ""
+
+#: functions.php:294
+msgid "Error 404 (Page not found) "
+msgstr ""
+
+#: functions.php:297
+msgid "Articles posted by author "
+msgstr ""
+
+#: functions.php:300
+msgid "Posts tagged "
+msgstr ""
+
+#: functions.php:310
+msgid "Administration panel"
+msgstr ""
+
+#: functions.php:432
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. 1: date, 2: time
+#: functions.php:439
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:439
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:478
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:35
+msgid "All Post"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#: inc/functions.php:146 inc/hooks/header.php:104
+msgid "Search for:"
+msgstr ""
+
+#: inc/functions.php:148 inc/hooks/header.php:106
+msgid "Search"
+msgstr ""
+
+#: inc/functions.php:230
+msgid "Learn More"
+msgstr ""
+
+#: inc/functions.php:771
+msgid "All"
+msgstr ""
+
+#: inc/functions.php:830
+msgid "see more..."
+msgstr ""
+
+#: inc/functions.php:1275 inc/customizer/header-section/header-options.php:136
+msgid "+977-1-4671980"
+msgstr ""
+
+#: inc/functions.php:1278 inc/customizer/header-section/header-options.php:162
+msgid "support@accesspressthemes.com"
+msgstr ""
+
+#: inc/functions.php:1329
+msgid "WordPress Theme : "
+msgstr ""
+
+#: inc/functions.php:1330
+msgid "Premium WordPress Themes & Plugins by AccessPress Themes"
+msgstr ""
+
+#. Name of the theme
+#: inc/functions.php:1330
+msgid "Doko"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:40
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/core/template-tags.php:46
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/core/template-tags.php:49
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/core/template-tags.php:59
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer/customizer.php:32
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:43
+msgid "Themes Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:54 inc/customizer/customizer.php:62
+msgid "Inner Pages Header Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:55
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer/customizer.php:63
+msgid "This Is A Section Inner Pages Header Image."
+msgstr ""
+
+#: inc/customizer/doko-custom-controls.php:458
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+
+#: inc/customizer/doko-custom-controls.php:481 
+#: inc/customizer/doko-custom-controls.php:494
+msgid "Note :"
+msgstr ""
+
+#: inc/customizer/doko-custom-controls.php:483
+msgid ""
+"You can add the Team Member Name and Country from image title, caption "
+"correspondingly From \" Same Team Image Title and Caption when uploaded \" "
+msgstr ""
+
+#: inc/customizer/doko-custom-controls.php:496
+msgid ""
+"You can add the Testimonials Name and Designation from image title, caption "
+"correspondingly From \" Same  Testimonial Title and Caption when uploaded \" "
+msgstr ""
+
+#: inc/customizer/doko-sanitize.php:12 
+#: inc/customizer/header-section/header-options.php:114
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/doko-sanitize.php:13 
+#: inc/customizer/header-section/header-options.php:115
+msgid "Disable"
+msgstr ""
+
+#: inc/hooks/header.php:14
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/footer-section/footer-options.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer-section/footer-options.php:17
+msgid "Upload Footer Background Image"
+msgstr ""
+
+#: inc/customizer/footer-section/footer-options.php:25
+msgid "2017 @ all rights reserved."
+msgstr ""
+
+#: inc/customizer/footer-section/footer-options.php:33
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:8
+msgid "Navigation  Sections"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:20
+msgid "Navigation Before/After Slider Option"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:21
+msgid "Before/After Header Navigation Section Option"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:24
+msgid "Before Slider"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:25
+msgid "After Slider"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:39
+msgid "Show/Hide Option For Search Icon"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:40
+msgid "Show/Hide Search Section Option"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:43 
+#: inc/customizer/header-section/header-options.php:74
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:44 
+#: inc/customizer/header-section/header-options.php:75
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:57
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:70
+msgid "Show/Hide Option For Basket Icon"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:71
+msgid "Show/Hide Basket Section Option"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:89
+msgid "Basket Icon"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:99
+msgid "Contacts Info"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:110
+msgid "Enable/Disable Option For Header Contacts Section"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:111
+msgid "Enable/Disable Header Section Contacts Option"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:130
+msgid "Phone Icon"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:142
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:156
+msgid "Email Icon"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:168
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:181
+msgid "Social Icon Options"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:194
+msgid "Facebook Icon"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:206
+msgid "Facebook url"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:222
+msgid "Twitter Icon"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:235
+msgid "Twitter url"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:251
+msgid "Google Plus Icon"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:262
+msgid "Google Plus url"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:279
+msgid "Linkedin Icon"
+msgstr ""
+
+#: inc/customizer/header-section/header-options.php:291
+msgid "Linkedin url"
+msgstr ""
+
+#: inc/customizer/header-section/header-settings.php:7
+msgid "Navigation Settings"
+msgstr ""
+
+#: inc/customizer/header-section/header-settings.php:8
+msgid "Customize your awesome site header settings"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:17
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:29
+msgid "Slider One"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:43
+msgid "Banner One Button Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:55
+msgid "Banner One  Button Link"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:71
+msgid "Slider Two"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:83
+msgid "Banner Two Button Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:95
+msgid "Banner Two  Button Link"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:110
+msgid "Slider Three"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:122
+msgid "Banner Three Button Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:134
+msgid "Banner Three  Button Link"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:150 
+#: inc/customizer/home-section/home-options.php:175
+msgid "About Us Section"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:161
+msgid "Upload About Section Background Image"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:176
+msgid "Home page about us selection"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:187
+msgid "Counter Section"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:192
+msgid "4000"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:198
+msgid "Counter One"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:204 
+#: inc/customizer/home-section/home-options.php:277 
+#: inc/customizer/home-section/home-options.php:312
+msgid "CUSTOMERS"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:210
+msgid "Counter One Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:216
+msgid "400"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:222
+msgid "Counter Two"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:228
+msgid "EMPLOYEES"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:234
+msgid "Counter Two Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:241
+msgid "8000"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:247
+msgid "Counter Three"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:253
+msgid "PROJECTS DONE"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:259
+msgid "Counter Three Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:265
+msgid "950"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:271
+msgid "Counter Four"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:283
+msgid "Counter Four Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:294
+msgid "Services Section"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:304
+msgid "Upload Services Background Image"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:319
+msgid "Services Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:321
+msgid "Home page Services content"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:339
+msgid "Services One Icon"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:350
+msgid "Services One Title"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:364
+msgid "Services Two Icon"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:375
+msgid "Services Two Title"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:390
+msgid "Services Three Icon"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:402
+msgid "Services Three Title"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:417
+msgid "Services Four Icon"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:428
+msgid "Services Four Title"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:440
+msgid "Services Bottom Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:448
+msgid "Download Now"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:452
+msgid "Services Bottom Button label"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:463
+msgid "Services Bottom Button Link"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:474
+msgid "Features Section"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:484
+msgid "Upload Features Background Image"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:496
+msgid "Features Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:498
+msgid "Home page Features content"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:511
+msgid "Features  Button label"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:522
+msgid "Features  Button Link"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:537
+msgid "Features One Icon"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:547
+msgid "Features One Title"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:561
+msgid "Features Two Icon"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:571
+msgid "Features Two Title"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:585
+msgid "Features Three Icon"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:595
+msgid "Features Three Title"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:608
+msgid "Features Four Icon"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:618
+msgid "Features Four Title"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:629
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:639
+msgid "Upload Testimonials Background Image"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:664
+msgid "Testimonials Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:665
+msgid "Home page testimonials  selection"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:680
+msgid "Testimonial One  Settings"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:683 
+#: inc/customizer/home-section/home-options.php:697 
+#: inc/customizer/home-section/home-options.php:709 
+#: inc/customizer/home-section/home-options.php:721 
+#: inc/customizer/home-section/home-options.php:733 
+#: inc/customizer/home-section/home-options.php:745 
+#: inc/customizer/home-section/home-options.php:881 
+#: inc/customizer/home-section/home-options.php:894 
+#: inc/customizer/home-section/home-options.php:908
+msgid "Enter Title, Caption and Description after you upload the image."
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:694
+msgid "Testimonial Two  Settings"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:706
+msgid "Testimonial Three  Settings"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:718
+msgid "Testimonial Four  Settings"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:730
+msgid "Testimonial Five  Settings"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:742
+msgid "Testimonial Six  Settings"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:754
+msgid "Latest Works Section"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:764
+msgid "Upload Latest Works Background Image"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:778
+msgid "Latest Works Header Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:790
+msgid "Latest Works Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:803
+msgid "Select Latest Works Section Category"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:804
+msgid ""
+"The subcategory of the selected category will display as a portfolio tab"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:814
+msgid "Our Team Section"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:824
+msgid "Upload Our Team Background Image"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:853
+msgid "Our Team Text Title"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:867
+msgid "Our Team Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:878
+msgid "Our Team One Settings"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:891
+msgid "Our Team Two Settings"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:905
+msgid "Our Team Three Settings"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:918
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:928
+msgid "Upload Blog Background Image"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:943
+msgid "Blog Header Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:955
+msgid "Blog  Text"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:969
+msgid "Select Excluded Blogs Categories"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:980
+msgid "Display Number of Blogs In Home Page "
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:992
+msgid "Partners Section"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:1003
+msgid "Upload Partners Background Image"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:1016
+msgid "Upload Partners  Image One"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:1029
+msgid "Upload Partners Image Two"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:1042
+msgid "Upload Partners Image Three"
+msgstr ""
+
+#: inc/customizer/home-section/home-options.php:1055
+msgid "Upload Partners Image Four"
+msgstr ""
+
+#: inc/customizer/home-section/home-settings.php:7
+msgid "Home Page  Settings"
+msgstr ""
+
+#: inc/customizer/home-section/home-settings.php:8
+msgid "Customize your awesome site home page settings"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Doko is a Modern Material Design WordPress Theme. It is intuitive and easy "
+"to use, robust and reliable, highly flexible and fully responsive theme. "
+"Based on live customizer, the theme allows to preview the changes as you go. "
+"It is the perfect theme for the professionals, bloggers, and creative "
+"personnel’s website, as it provides a clean and flexible appearance, an "
+"elegant portfolio, and a catchy online shop. The theme is translation ready, "
+"fully SEO optimized, fast loading and is compatible with all major plugins "
+"like woo commerce and other.  For Demo https://accesspressthemes.com/theme-"
+"demos/?theme=doko"
+msgstr ""
+
+#. URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/doko"
+msgstr ""
+
+#. Author of the theme
+msgid "AccessPress Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://accesspressthemes.com"
+msgstr ""
